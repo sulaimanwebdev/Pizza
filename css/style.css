@@ -1061,11 +1061,10 @@ margin-top: 15px;
 	overflow:hidden;
   }
 
-
-.swiper-wrapper{
-	overflow:hidden;
-
-
+.mySwiper{
+	overflow:hidden !important;
+	
+	
 }
 
   .swiper-slide{
