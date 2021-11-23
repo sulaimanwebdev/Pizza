@@ -1062,6 +1062,12 @@ margin-top: 15px;
   }
 
 
+.swiper-wrapper{
+	overflow:hidden;
+
+
+}
+
   .swiper-slide{
       cursor: grab;
   }
